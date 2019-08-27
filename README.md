@@ -41,7 +41,7 @@ This tutorial takes about 20 minutes to complete if you already have an IBM clou
 
 6. Remove the missing values from the column: CUST_ID
 
-Select the 3 dots on the column > Remove missing values.
+   Select the 3 dots on the column > Remove missing values.
 
 7. Select the right data type for CUST_ID as shown below.
 
@@ -49,7 +49,30 @@ Select the 3 dots on the column > Remove missing values.
 
 8. Upload the notebook to the project.
 
-9. Run the notebook!
+![](https://github.com/Abeer-Haroon/Build-an-AI-powered-product-recommendation-engine/blob/master/images/notebook1.gif)
+
+9. Open the notebook. Add the credentials of your Watson Machine Learning service in **4.1**.
+
+``` 
+   wml_credentials = {
+     "apikey": "***",
+     "iam_apikey_description": "Auto-generated for key ***",
+     "iam_apikey_name": "Service credentials-1",
+     "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+     "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/***",
+     "instance_id": "***",
+     "url": "https://us-south.ml.cloud.ibm.com"
+   }
+   
+   
+``` 
+
+10. Run all the cells in the notebook to create the model. Test your model with the Pixie App at the end of the notebook. 
+
+    Voilà! You're done creating your own AI recommendation engine!!
+
+
+
 
 
 
