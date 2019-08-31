@@ -1,4 +1,10 @@
-# Build an AI product recommendation engine
+# Build an AI product recommendation engine for an online store
+
+## Demo
+
+An end-to-end project on creating the below product recommendation engine for an online store for different products.
+
+![](https://github.com/Abeer-Haroon/Build-an-AI-powered-product-recommendation-engine/blob/master/images/pixieApp.gif)
 
 ## Prerequisites
 
