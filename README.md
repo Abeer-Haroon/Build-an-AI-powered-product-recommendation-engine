@@ -53,7 +53,7 @@ This tutorial takes about 20 minutes to complete if you already have an IBM clou
 
 ![](https://github.com/Abeer-Haroon/Build-an-AI-powered-product-recommendation-engine/blob/master/images/DR2.gif)
 
-8. Upload the notebook to the project.
+8. Upload the notebook 'wml-product-recommendation-aiengine.ipynb' to the project.
 
 ![](https://github.com/Abeer-Haroon/Build-an-AI-powered-product-recommendation-engine/blob/master/images/notebook1.gif)
 
